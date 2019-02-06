@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Usage
+sign up https://www.food2fork.com/about/api and get API key
+replace FOOD_2_FORK_KEY with your key in App.js and Recipe.js 
+
 ## Available Scripts
 
 In the project directory, you can run:

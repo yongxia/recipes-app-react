@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const API_KEY = '810183f85728fe0dc4daaddf6234e0c2';
+const API_KEY = 'FOOD_2_FORK_KEY';
 
 class Recipe extends React.Component {
 
